@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jpared3s/NodeJS-BC/issues"
   },
-  "homepage": "https://github.com/jpared3s/NodeJS-BC#readme"
+  "homepage": "https://github.com/jpared3s/NodeJS-BC#readme",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
